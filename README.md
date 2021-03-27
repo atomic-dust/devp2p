@@ -1,1 +1,1 @@
-# Moved to [rust-ethereum/sentry](https://github.com/rust-ethereum/sentry) repo
+# Moved to [rust-vapory/sentry](https://github.com/rust-vapory/sentry) repo
